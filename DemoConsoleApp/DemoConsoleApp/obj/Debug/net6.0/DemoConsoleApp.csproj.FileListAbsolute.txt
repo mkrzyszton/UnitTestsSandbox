@@ -1,0 +1,15 @@
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.exe
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.deps.json
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.runtimeconfig.json
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.dll
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\bin\Debug\net6.0\ref\DemoConsoleApp.dll
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.pdb
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.AssemblyInfo.cs
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.dll
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\ref\DemoConsoleApp.dll
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.pdb
+C:\Users\owenk\Documents\Github\UnitTestsSandbox\DemoConsoleApp\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.genruntimeconfig.cache

@@ -5,7 +5,22 @@
       "ProjectGuid": "290fc1d6-5e21-4a5b-b726-97fa9e0ce998",
       "DisplayName": "DemoConsoleApp",
       "ColorIndex": 0
+    },
+    "6a2e647c-f0f0-4879-b9be-834f80a7e6ee": {
+      "ProjectGuid": "6a2e647c-f0f0-4879-b9be-834f80a7e6ee",
+      "DisplayName": "TestDemoApp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "07bb2474-f7f9-4d67-957c-ce26f5b62726": {
+      "ProjectGuid": "07bb2474-f7f9-4d67-957c-ce26f5b62726",
+      "DisplayName": "DemoConsoleApp.Tests",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

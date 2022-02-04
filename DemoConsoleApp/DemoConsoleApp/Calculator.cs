@@ -6,32 +6,41 @@ using System.Threading.Tasks;
 
 namespace DemoConsoleApp
 {
-    internal class Calculator
+    public interface IMethod
     {
+        int Add(int a, int b);
+        int Subtract(int a, int b);
+        int Multiply(int a, int b);
+        int Divide(int a, int b);
+        int Modulo(int a, int b);
+    }
 
-        public void Add(int a, int b)
+    public class Calculator : IMethod
+    {
+        
+        public int Add(int a, int b)
         {
-            Console.WriteLine(a + b);
+            return a + b;
         }
 
-        public void Subtract(int a, int b)
+        public int Subtract(int a, int b)
         {
-            Console.WriteLine(a - b);
+            return a - b;
         }
 
-        public void Multiply(int a, int b)
+        public int Multiply(int a, int b)
         {
-            Console.WriteLine(a * b);
+            return a * b;
         }
 
-        public void Divide(int a, int b)
+        public int Divide(int a, int b)
         {
-            Console.WriteLine(a / b);
+            return a / b;
         }
 
-        public void Modulo(int a, int b)
+        public int Modulo(int a, int b)
         {
-            Console.WriteLine(a % b);
+            return a % b;
         }
     }
 }
